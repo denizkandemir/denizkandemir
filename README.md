@@ -15,5 +15,3 @@ I'm currently working on Academy Adra Web Site<br>I'm currently learning Java!<b
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=denizkandemir&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=denizkandemir&icon=0&color=1)](https://visitcount.itsvg.in)
