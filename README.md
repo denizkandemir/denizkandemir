@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Academy Adra Web Site<br>I'm currently learning Java!<br>I'm studying in Yaşar University in Izmir.<br>
+I'm currently working on Academy Adra Web Site<br>I'm currently learning Java!<br>I'm studying at Yaşar University in Izmir.<br>
 
 
 ## 🌐 Socials:
